@@ -7,9 +7,9 @@ Aucun fichier .jmpr n'est fourni, c'est au joueur d'éditer le niveau par ses so
 
 ## Visuels
 
-![alt text](/clippy/images/clippy%20screen%20%231.png)
+![clippy screen #1](https://user-images.githubusercontent.com/76477373/221229414-8aebd7db-394f-436b-bf24-3c6d83a9e94f.png)
 
-![alt text](/clippy/images/clippyingame.png)
+![clippyingame](https://user-images.githubusercontent.com/76477373/221229497-1e6a9416-14aa-4d43-9156-430f8bf004c3.png)
 
 ## Auteurs
 Un grand merci à Lucas Rimbault, Marie René, Govinda Agbahe, Blessing-Grace Eklou-Dovi, Sabrina Attos, Mattis Almeida Lima, Adam Maaloul
